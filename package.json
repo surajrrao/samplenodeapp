@@ -1,7 +1,6 @@
 {
   "name": "samplenodeapp",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +10,15 @@
   "dependencies": {
     "express": "^4.13.3",
     "pmx": "^0.5.8"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surajrrao/samplenodeapp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/surajrrao/samplenodeapp/issues"
+  },
+  "homepage": "https://github.com/surajrrao/samplenodeapp#readme",
+  "description": ""
 }
